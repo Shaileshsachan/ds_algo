@@ -1,1 +1,2 @@
 # ds_algo
+CODE FOR ALGORITHM IN PYTHON
